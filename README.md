@@ -1,1 +1,1 @@
-# ClientStorage
+# Client Storage - Local Storage / Cookies
