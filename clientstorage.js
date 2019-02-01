@@ -1,4 +1,3 @@
-
 // Client Storage
 function clientStorage(ActionType, Name, Value)
 {
